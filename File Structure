@@ -1,0 +1,9 @@
+app.py — Contains the Flask app logic.
+
+main.py — Entry point to run the app.
+
+templates/login.html — HTML login form.
+
+requirements.txt — Python dependencies.
+
+test_model.py — Basic test for login logic.
